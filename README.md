@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋 — I'm Rob 
+
+  I lead the [COMBINE-lab](https://github.com/COMBINE-lab) at the University of Maryland, where I am an associate professor of Computer Science and a member of UMIACS and the Center for Bioinformatic and Computational Biology.  We (the COMBINE-lab) work mostly on algorithms and data structures for efficient processing, indexing, querying and inferece in high-throughput sequencing data.  
+
+#### Some Info
+
+🌱 I’m currently learning Rust (and think it is a strong contender to replace / augment C++ in compute-intensive bioinformatics applications)!
+
+👯 I’m looking to collaborate on interesting projects related to processing, indexing, querying and inferece in high-throughput sequencing data (after all, it's what we do!).
 
 <!--
 **rob-p/rob-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
