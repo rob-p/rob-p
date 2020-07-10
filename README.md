@@ -1,6 +1,6 @@
 ### Hi 👋 — I'm Rob 
 
-  I lead the [COMBINE-lab](https://github.com/COMBINE-lab) at the University of Maryland, where I am an associate professor of Computer Science and a member of UMIACS and the Center for Bioinformatic and Computational Biology.  We (the COMBINE-lab) work mostly on algorithms and data structures for efficient processing, indexing, querying and inferece in high-throughput sequencing data.  
+  I lead the [COMBINE-lab](https://github.com/COMBINE-lab) at the University of Maryland, where I am an associate professor of Computer Science and a member of UMIACS and the Center for Bioinformatic and Computational Biology.  We (the COMBINE-lab) work mostly on algorithms and data structures for efficient processing, indexing, querying and inference in high-throughput sequencing data.  
 
 #### Some Info
 
