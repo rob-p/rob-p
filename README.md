@@ -4,7 +4,7 @@
 
 #### Some Info
 
-🌱 I’m currently learning Rust (and think it is a strong contender to replace / augment C++ in compute-intensive bioinformatics applications)!
+⚡ Fun fact: Our lab writes most of our tools in Rust (and think it is a strong contender to replace / augment C++ in compute-intensive bioinformatics applications)!
 
 👯 I’m looking to collaborate on interesting projects related to processing, indexing, querying, and inference in high-throughput sequencing data (after all, it's what we do!).
 
